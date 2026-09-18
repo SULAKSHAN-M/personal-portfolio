@@ -57,7 +57,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Sulakshan Marudanayagam
+          SULAKSHAN MARUDANAYAGAM
         </motion.h1>
 
         <motion.h2
