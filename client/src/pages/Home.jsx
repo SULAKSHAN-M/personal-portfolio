@@ -52,7 +52,7 @@ const Home = () => {
     <div className="min-h-screen flex items-center justify-center px-4 mt-12 sm:mt-8 md:mt-10 lg:mt-12">
       <div className="text-center relative z-10 max-w-4xl mx-auto">
         <motion.h1
-          className="text-4xl sm:text-6xl md:text-8xl font-bold mb-4 sm:mb-6 relative tracking-tighter"
+          className="text-4xl sm:text-6xl md:text-8xl font-bold mb-4 sm:mb-7 relative tracking-tighter"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
